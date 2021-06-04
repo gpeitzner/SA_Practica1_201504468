@@ -1,0 +1,7 @@
+version: '3.4'
+
+services:
+  sapractica1201504468:
+    image: sapractica1201504468
+    ports:
+      - 5000:5000
